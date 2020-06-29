@@ -1,6 +1,6 @@
 # pull-request-test
 
-プルルクエストの使用を試す。
+githubのプルルクエストを試す。
 参考:[サル先生のGit入門](https://backlog.com/ja/git-tutorial/pull-request/04/)
 
 
