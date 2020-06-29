@@ -45,3 +45,6 @@ $ git commit -m "Add function list sort"
 ```
 $ git push origin add-sort-function
 ```
+
+## レビューとマージ
+![スクリーンショット 2020-06-29 22 02 45](https://user-images.githubusercontent.com/67271461/86009707-7e2baf00-ba55-11ea-928f-80cf1a1add7a.png)
