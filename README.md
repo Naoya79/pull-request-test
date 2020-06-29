@@ -7,7 +7,7 @@
 ## リポジトリの準備
 
 - 新しいリポジトリを作成する（pull-request-test）
-- リポジトリの中に以下のjsファイル（）を作成する
+- リポジトリの中に以下のjsファイル（sort.js）を作成する
 ```javascript
 var number = [19, 3, 81, 1, 24, 21];
 console.log(number);
@@ -21,7 +21,7 @@ console.log(number);
 ```
 $ git check out -b add-sort-func
 ```
-- ファイルを変更しコミット
+- ファイルを変更
 ```javascript
 var sortNumber = function (number) {
   number.sort(function (a,b) {
