@@ -67,7 +67,7 @@ $ git push origin add-sort-function
 - 再度コミットとプッシュを行う
 ```
 $ git add sort.js
-$ git commit -m "(==)to(===)"
+$ git commit -m "(==)fix to(===)"
 $ git push origin add-sort-func
 ```
 - github上で、プルリクエストに修正した旨を伝える
