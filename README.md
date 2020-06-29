@@ -71,3 +71,11 @@ $ git commit -m "(==)fix to(===)"
 $ git push origin add-sort-func
 ```
 - github上で、プルリクエストに修正した旨を伝える
+
+## 画面上からマージ
+
+- レビューした結果、問題なければマージを行う。「Conversation」タブより「Merge pull request」ボタンをクリック、適切なコメントを付け、「Confirm merge」でマージする
+![スクリーンショット 2020-06-29 22 41 07](https://user-images.githubusercontent.com/67271461/86014158-ee88ff00-ba5a-11ea-8c49-81d5c4e62302.png)
+
+- （レビュー担当者は、開発者にコメントするとGood）
+- （「Insights」タブの、「Network」より、開発ブランチが視覚的にわかる）
